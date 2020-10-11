@@ -2,7 +2,7 @@
 
 ATM web using Spring Thymeleaf for a front-end
 
-By Nutthanich Narphromar (6110545490)
+**This repo is for trying Code Climate and Codacy only.**
 
 ## Note
 This web application is running on port 8080 (default port of Sprint Boot)
